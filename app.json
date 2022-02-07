@@ -3,9 +3,9 @@
     "description": "Fidha Mwol is the Modified Version of JulieMwol, Made By @Hypersir with Baileys.",
     "logo": "https://i.imgur.com/4Oir08c.jpeg",
     "keywords": ["whatsapp", "userbot", "fidha", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Hypersir/Fidha-Mwol",
-    "website":   "https://github.com/Hypersir/Fidha-Mwol",
-    "success_url": "https://github.com/Hypersir/Fidha-Mwol",
+    "repository": "https://github.com/TOXICTURBO/Fidha-Mwol-v2",
+    "website":   "https://github.com/TOXICTURBO/Fidha-Mwol-v2",
+    "success_url": "https://github.com/TOXICTURBO/Fidha-Mwol-v2",
     "stack": "container",
     "env": {
         "STEFANIE_SESSION": {
